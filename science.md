@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: Science
-permalink: /science/
-tagline: "Humanity is overrated."
-category: "science"
+title: Draft 1
+permalink: /cryptography/
+tagline: "is typically bypassed, not penetrated"
+category: "cryptography"
 ---
