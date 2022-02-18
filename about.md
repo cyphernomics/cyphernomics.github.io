@@ -1,11 +1,11 @@
 ---
 layout: page
-title : About
+title : About the Author
 permalink: /about/
 ---
 
-<h2>Gravity</h2>
-<p>Minimal, text based, liberal Jekyll theme<br>for sharing your awesome ideas.</p>
+<h2>Cyphernomics</h2>
+<p>It is a personal project, in blog format, to present ideas and thoughts on the design and evolution of economic protocols based on data encryption.</p>
 <br>
 <center><p ><strong><span class="manual">Get up and running with</span> Gravity</strong></p></center>
 <br>
