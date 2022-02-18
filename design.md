@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: Design
-permalink: /design/
-category: "design"
-tagline: "it's all about perception."
+title: Quantum Computing
+permalink: /quantum computing/
+category: "quantum computing"
+tagline: "is becoming a reality."
 ---
