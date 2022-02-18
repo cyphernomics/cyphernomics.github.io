@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: Draft 1
-permalink: /cryptography/
+title: Cryptography
+permalink: /science/
 tagline: "is typically bypassed, not penetrated"
-category: "cryptography"
+category: "science"
 ---
