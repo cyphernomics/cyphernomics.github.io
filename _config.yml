@@ -12,7 +12,7 @@ description: Economic concepts in the design of peer-to-peer cryptographic syste
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cyphernomics.github.io" # the base hostname & protocol for your site
 twitter_username: 
-github_username: cyphernomics
+github_username:
 linkedin_username: ariana-cr
 paginate: 5
 theme-dark: false #Set to true to change to dark website theme
