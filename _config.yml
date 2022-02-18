@@ -10,7 +10,7 @@ title: Cyphernomics
 email: cyphernomicsblog@gmail.com
 description: Economic concepts in the design of peer-to-peer cryptographic systems
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://http://cyphernomics.github.io" # the base hostname & protocol for your site
+url: "https://cyphernomics.github.io" # the base hostname & protocol for your site
 twitter_username: 
 github_username: cyphernomics
 paginate: 5
