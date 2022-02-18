@@ -2,9 +2,6 @@
 layout: default
 ---
 
-<div class="home">
-
-
   {% for post in paginator.posts%}
   <div class="post postContent">
     <div  class="postDate"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time>
@@ -43,7 +40,7 @@ layout: default
     {% endif %}
     </nav>
   {% endif %}
-  <!--<ul class="post-list">
+  <--<ul class="post-list">
     {% for post in site.posts %}
       <li>
         <span class="post-meta-main">{{ post.date | date: "%b %-d, %Y" }}</span>
@@ -54,7 +51,3 @@ layout: default
       </li>
     {% endfor %}
   </ul>-->
-
-
-
-</div>
